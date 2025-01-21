@@ -29,6 +29,7 @@
 <br>
 <p>
 - 이메일: akswo184@gmail.com / akswo184@naver.com
+  <br>
 - instargram : min__jjas
 </p>
 
