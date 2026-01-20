@@ -27,6 +27,17 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 </p>
 
+<b>🗄️ Database</b><br>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+</p>
+
+<b>☁️ Cloud / DevOps</b><br>
+<p>
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white"/>
+</p>
+
+
 <br>
 
 ### 연락처
