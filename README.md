@@ -27,6 +27,16 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 </p>
 
+<b>🤝 Collaboration</b><br>
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+</p>
+
+<ul>
+  <li>Jira로 이슈/칸반 보드 기반으로 작업 관리</li>
+</ul>
+
+
 <b>🗄️ Database</b><br>
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
