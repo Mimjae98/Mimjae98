@@ -30,11 +30,14 @@
 <b>🤝 Collaboration</b><br>
 <p>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
 </p>
 
 <ul>
   <li>Jira로 이슈/칸반 보드 기반으로 작업 관리</li>
+  <li>Figma로 UI 시안 확인 및 개발 협업</li>
 </ul>
+
 
 
 <b>🗄️ Database</b><br>
