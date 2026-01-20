@@ -37,6 +37,12 @@
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white"/>
 </p>
 
+<ul>
+  <li>EC2 인스턴스 생성 및 SSH 접속 실습</li>
+  <li>Nginx 기본 설정 및 배포 흐름 실습</li>
+</ul>
+
+
 
 <br>
 
